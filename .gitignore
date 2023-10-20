@@ -3,6 +3,7 @@
 /node_modules
 /db/data
 /redis/data
+.env
 
 # Logs
 logs
